@@ -1,2 +1,2 @@
-# GraphQl-with-Subscribtions
+# CRD-React-with-GraphQL
 Muhammad Khiyarus Syiam
